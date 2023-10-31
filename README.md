@@ -6,4 +6,4 @@ Based on KDE Carl Theme
 # Installation
 
 # Credits
-[Catpuccin](https://github.com/catppuccin) for original CSS file
+[Catpuccin](https://github.com/catppuccin) for original CSS file & for having the best themes
