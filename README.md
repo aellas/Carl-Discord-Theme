@@ -1,6 +1,5 @@
 # Carl Discord Theme
 <br> This theme is based upon the [Carl](https://store.kde.org/p/1330604) KDE Theme </br>
-<br> Major thanks to Jomada [Gitlab](https://gitlab.com/jomada/carl) for creating the theme <3 </br>
 
 ![Image](final1.png?raw=true "Final1")
 
@@ -11,4 +10,5 @@
 
 
 # Credits
+<br> Major thanks to Jomada [Gitlab](https://gitlab.com/jomada/carl) for creating the theme <3 </br>
 [Catpuccin](https://github.com/catppuccin) for original CSS file & for having the best themes
