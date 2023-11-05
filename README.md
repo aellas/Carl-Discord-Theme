@@ -10,5 +10,5 @@
 
 
 # Credits
-<br> Major thanks to Jomada [Gitlab](https://gitlab.com/jomada/carl) for creating the theme <3 </br>
+<br> Major thanks to Jomada [Gitlab](https://gitlab.com/jomada/carl) for creating the original KDE Carl theme <3 </br>
 [Catpuccin](https://github.com/catppuccin) for original CSS file & for having the best themes
