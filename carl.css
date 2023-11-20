@@ -106,7 +106,7 @@ html {
   --status-warning-text: #111216;
   --status-danger-background: #89b4fa;
   --status-danger-text: #111216;
-  --status-danger: #89b4fa;
+  --status-danger: #E93D40;
   --status-positive: #e8e8e8;
   --status-warning: #ffd67c;
   --status-yellow-400: #ffd67c;
@@ -543,7 +543,7 @@ div[class^=contentRegion] #keybinds-tab span[class*=key] g {
   fill: #111216;
 }
 div[class^=contentRegion] #nitro-server-boost-tab circle[class^=circleProgress] {
-  color: #f5c2e7;
+  color: #B048B0;
 }
 div[class^=contentRegion] #nitro-server-boost-tab div[class*=gemIndicatorContainer_] {
   background-color: #e8e8e8;
@@ -2018,8 +2018,8 @@ rect[fill="#23a55a"],
 foreignObject[mask="url(#svg-mask-status-online)"] > div,
 div[class^=dotOnline],
 i[class^=statusOnline] {
-  fill: #85e890 !important;
-  background-color: #85e890 !important;
+  fill: #229F57 !important;
+  background-color: #229F57 !important;
 }
 
 rect[fill="rgba(35, 165, 90, 1)"] {
@@ -2028,8 +2028,8 @@ rect[fill="rgba(35, 165, 90, 1)"] {
 
 rect[fill="#f0b232"],
 foreignObject[mask="url(#svg-mask-status-idle)"] > div {
-  fill: #ffd67c !important;
-  background-color: #ffd67c !important;
+  fill: #DDA32F !important;
+  background-color: #DDA32F !important;
 }
 
 rect[fill="rgba(240, 178, 50, 1)"] {
@@ -2038,8 +2038,8 @@ rect[fill="rgba(240, 178, 50, 1)"] {
 
 rect[fill="#f23f43"],
 foreignObject[mask="url(#svg-mask-status-dnd)"] > div {
-  fill: #89b4fa !important;
-  background-color: #89b4fa !important;
+  fill: #E93D40 !important;
+  background-color: #E93D40 !important;
 }
 
 rect[fill="rgba(242, 63, 67, 1)"] {
@@ -2384,4 +2384,4 @@ div[class^=checkbox][class*=checked_] svg path {
 .theme-dark code .hljs-deletion {
   color: #89b4fa;
   background: rgba(243, 139, 168, 0.15);
-}
+}/*  */
